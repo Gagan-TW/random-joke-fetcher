@@ -95,10 +95,6 @@ This project demonstrates:
 - Include animation transitions for joke display
 - Add dark mode theme toggle
 
-## 📄 License
 
-This project is open source and available for educational purposes.
-
----
 
 **Made with ❤️ as a demonstration of front-end web development skills**
